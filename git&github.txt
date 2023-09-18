@@ -1,0 +1,48 @@
+GIT
+- Git is a version control system.
+- It manages source code and track the history.
+
+
+
+GITHUB
+- hosting and collaboration provider.
+- github allows us to bring local project from git.
+   
+
+- On MAC we have two different shells (diff text input interfaces) 
+1. first one or older one - bash     
+2. latest one - zsh (Z-Shell)
+
+- On WINDOWS
+1. command prompt (cmd)- initial windows shell
+2. powershell - new shell(windows 7 release)
+3. git bash - bash emulations for windows
+
+- Command line tools 
+for MAC - Terminal (z-shell)
+for WINDOWS - Command Prompt(cmd)
+
+On MAC
+1. pwd(print working directory) - pwd allows us to show that where we're currently yet.
+2. ls(list items) - shows us all the list items in that folder
+3. cd(change directory) - to change the current directory.
+4. cd ~ - it shows us that now we are in home folder.
+5. cd .. - coming back from that directory.
+5. clear - clear all the commands from terminal.but does'nt delete the history.
+6. mkdir <name of folder> - to create new folder
+7. touch <name of file> - to create new file , we can also create many files by giving space between their name.
+8. rm <name of the file which we want to delete> - rm means remove , it deleted the file , we can also remove multiple files.
+9. rmdir <name of the folder which we want to delete> - rmdir means remove directory.
+10.these are flags that tells us additional information .
+   1. ls -s - size of the file or the foler.
+   2. ls -l - time and date of the file or the folder when they created.
+   3. ls -ls - file size at the begining then time and date (not so helpfull).
+   4. man ls - it tells us about all the flags.
+11. cp - copying the file into another file by using cp <name of folder>/<name of file> <name of folder in which we wanr to copy>.
+ 
+
+
+
+
+
+
