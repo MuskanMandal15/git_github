@@ -26,13 +26,16 @@ On MAC
 1. pwd(print working directory) - pwd allows us to show that where we're currently yet.
 2. ls(list items) - shows us all the list items in that folder
 3. cd(change directory) - to change the current directory.
-4. cd ~ - it shows us that now we are in home folder.
+  3.1 cd/ - root directory.
+  3.2 cd/users - users directory.
+4. cd ~ - it shows us that now we are in home directory.
 5. cd .. - coming back from that directory.
 5. clear - clear all the commands from terminal.but does'nt delete the history.
 6. mkdir <name of folder> - to create new folder
 7. touch <name of file> - to create new file , we can also create many files by giving space between their name.
 8. rm <name of the file which we want to delete> - rm means remove , it deleted the file , we can also remove multiple files.
-9. rmdir <name of the folder which we want to delete> - rmdir means remove directory.
+   8.1 r - delete file. 
+9. rmdir <name of the folder which we want to delete> - rmdir means remove empty folder.
 10.these are flags that tells us additional information .
    1. ls -s - size of the file or the foler.
    2. ls -l - time and date of the file or the folder when they created.
