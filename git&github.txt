@@ -39,7 +39,13 @@ On MAC
    3. ls -ls - file size at the begining then time and date (not so helpfull).
    4. man ls - it tells us about all the flags.
 11. cp - copying the file into another file by using cp <name of folder>/<name of file> <name of folder in which we wanr to copy>.
- 
+12. git init - initialize the git.
+13. git add . - staged the file.
+14. git branch - tells us the current branch.
+15. git branch -M main - changes the branch (default branch is master).
+16. git commit -m "message" - commit means we don't want to change it .
+17. git push origin main - pushes the file github.
+18. git push -u origin main - it we use -u then we don't have to write the whole line we can  also write git push.
 
 
 
