@@ -54,7 +54,10 @@ MAC: COMMAND PROMPT - USEFUL COMMANDS
 19. git push origin main - pushes the file github.
 20. git push -u origin main - it we use -u then we don't have to write the whole line we can  also write git push.
 21. git ls-files - gives us all files that are staged.
-
+22. git clean -dn - removes only untracked files.
+  22.1. git clean -df - f means force that means it will delete from the explorer's side bar.
+23. git reset --soft HEAD~(no. of commits we want to go back) - back to the commit's number which we've typed.(it just removed the latest commit in working directory)
+24. git reset --hard HEAD~(no. of commits we want to go back) - removing the changes from working directory and removing the changes from staging area
 
 muskan is a girl
 
