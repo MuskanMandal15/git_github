@@ -136,6 +136,8 @@ Braches - git branch -D branchname - delete branch.
 - git log - the log is a public record of the repository's commit history
 
 
+- if a person wrote code in both different branches like master and feature respectively but on same line , and try to merge it , then it will give some conflicts . so we have to click on add current changes and merge it .
+
 
 WINDOWS: COMMAND PROMPT - USEFUL COMMANDS
 1. cd - print current path.
