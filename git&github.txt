@@ -91,7 +91,7 @@ MAC: COMMAND PROMPT - USEFUL COMMANDS
  - git checkout branchname - go to branch.
  - git checkout -b branchname , git switch -c branchname - create and access new branch.
  - git merge otherbranch - bring other branch's changes to current branch.
-
+ - git merge --abort - this means undo the merge, that has been done. 
 
 
 
