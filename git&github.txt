@@ -123,7 +123,7 @@ Latest Commits - git reset HEAD~1.
 Braches - git branch -D branchname - delete branch.
 ====================================================================================================================================================================================
 
--git stash - stash deletes the latest thing.
+-git stash - temporary storage for unstaged changes and uncommitted changes.
 -git stash apply - gives us the previous thing.
 -git stash list - gives us the list of all stash with their index values and the starting one is the latest one.
 -git stash pop <index of stash we want to save> -
@@ -132,7 +132,7 @@ Braches - git branch -D branchname - delete branch.
 
 - git reset --hard HEAD~<no. of commit we want to undo>
 - git reset --hard <hash of the commit which we want to reset> - gives us the undo commit back.
-- git reflog - reflog is a private, workspace-specific record of the repo's local commits.
+- git reflog - reflog is a private, workspace-specific record of the repo's local commits.- A log of all project changes made including deleted commits.
 - git log - the log is a public record of the repository's commit history
 
 
@@ -155,4 +155,3 @@ WINDOWS: COMMAND PROMPT - USEFUL COMMANDS
 Git = Tracking changes - Not storing files again and again.
 
 
-I AM A GIRRL 
