@@ -4,10 +4,7 @@ GIT
 
 
 
-GITHUB
-- hosting and collaboration provider.
-- github allows us to bring local project from git.
-   
+
 
 - On MAC we have two different shells (diff text input interfaces) 
 1. first one or older one - bash     
@@ -155,3 +152,15 @@ WINDOWS: COMMAND PROMPT - USEFUL COMMANDS
 Git = Tracking changes - Not storing files again and again.
 
 
+=======================================================================
+
+GITHUB
+- hosting and collaboration provider.
+- git repository hosting.
+- github allows us to bring local project from git.
+- remote repository.
+
+- git pull - getting remote repo in our local repo.
+- git clone - clone repo into directory , cloning remote repo in our local repo.
+   
+hello my name is muskan mandal, and i am learning git and github.
